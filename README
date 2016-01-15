@@ -1,0 +1,13 @@
+This directory contains the C code used by Jia and Jannink (Genetics, 2012) and
+was sent by Yi Jia to Timothée Flutre on 14/11/2015:
+http://dx.doi.org/10.1534/genetics.112.144246
+
+As the code uses the GNU Scientific Library (GSL), it is under the GNU Public
+License (GPL):
+http://www.gnu.org/software/gsl/
+http://www.gnu.org/licenses/licenses.html#GPL
+
+It is hosted online, https://github.com/timflutre/jia-jannink_genetics_2012,
+where you can report issues. The tag v1.0 corresponds to the exact files sent
+initially. All modifications were performed by T. Flutre since then. Please
+contact me if interested.
